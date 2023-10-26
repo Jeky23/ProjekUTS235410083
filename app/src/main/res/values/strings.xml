@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Projek UTS 235410083</string>
+    <string name="glagah_content_description" />
+    <string name="glagah_pasar" />
+    <string name="glagah_perahu" />
+    <string name="glagah_atv" />
+    <string name="glagah_naga" />
+    <string name="glagah_kebun" />
+    <string name="detail">Fiture</string>
+    <string name="next">Next</string>
+    <string name="prevous">Kembali</string>
+    <string name="awal">halaman pertama</string>
+  </resources>
